@@ -1,0 +1,23 @@
+*{background-color: lightgray;
+
+}
+
+
+.top{
+    height: 115px;
+    width: 1000px;
+    background-color: slategray ;
+    
+}
+.middle{
+    height: 720px;
+    width: 75%;
+    background-color: white;
+    margin: auto;
+}            
+.bottom{
+    height: 70px;
+    width: 75%;
+    background-color: black;
+    margin: auto;
+}

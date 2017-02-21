@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    border: 
+
+
+}
+
+
+
+p {
+    color: darkblue;
+
+}
+
+.title{
+    background-color: lightcyan;
+    width: 30%;
+    border: 10px solid lemonchiffon
+}
+
+.main{
+    background-color: lemonchiffon;
+width: 25%;
+border: 10px solid lightcyan;
+}
+
+.box{
+    height: 250px;
+    width: 50%;
+    background-color: orange;
+    padding: 25px;
+    border: 10px solid black;
+    margin: 5px 0;
+
+}

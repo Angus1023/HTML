@@ -1,0 +1,48 @@
+.top{
+    height: 100px;
+    width:950px;
+    background-color: lightgray;
+    
+}
+    
+ .col{
+    height: 300px;
+    width: 950px;
+    background-color: ghostwhite;
+    float: left;
+    padding: 90px;
+    box-sizing: border-box;
+}
+
+.col-1{
+    height: 125px;
+    width: 950px;
+    background-color: deepskyblue;
+    float: left;
+
+}
+.col-2{
+    height: 125px;
+    width:950px;
+    background-color: #2EFEC8;
+    float:  left;
+}
+.col-3{
+    height: 125px;
+    width: 950px;
+    background-color: palegreen ;
+    float: left;
+}
+.col-4{
+     height: 125px;
+     width:950px ;
+     background-color: yellow ;
+     float: left;
+}
+.image{
+     height: 60px;
+     width: 60px ;
+     background-color: deepskyblue ;
+     float: left;
+     margin: 20px;
+}
