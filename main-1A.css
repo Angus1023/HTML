@@ -1,0 +1,91 @@
+img {
+  width: 120%;
+  border: none;
+  vertical-align: middle;
+  
+
+}
+#box {
+  text-align: justify;
+  vertical-align: top;
+  width: 70%;
+  font-size: 132%;
+  margin: 0 auto;
+  padding: .5em 1em;
+
+}
+.box1 {
+  width: 76%;
+  font-weight: bold;
+  margin: auto;
+  text-align: left;
+  vertical-align: middle;
+
+}
+.otherbox1 {
+  height: 120px;
+  line-height: 150px;
+  float: left;
+  width: 170px;
+  margin: 52px;
+  /*position: relative;*/
+  
+}
+.otherbox2 {
+  height: 120px;
+  line-height: 150px;
+  float: left;
+  width: 170px;
+  margin: 52px;
+  /*position: absolute;*/
+  
+}
+.otherbox3 {
+  height: 120px;
+  line-height: 150px;
+  float: left;
+  width: 170px;
+  margin: 52px;
+  
+  
+}
+.otherbox4 {
+  height: 120px;
+  line-height: 150px;
+  float: left;
+  width: 170px;
+  margin: 52px;
+  
+  
+}
+.otherbox5 {
+  height: 120px;
+  line-height: 150px;
+  float: left;
+  width: 170px;
+  margin: 52px;
+  
+  
+}
+.icon {
+   /* display: inline-block; */
+    /* text-align: center; */
+    display: block;
+    width: 70%;
+    margin: auto;
+    height: 50px;
+}
+/*#footer {*/
+    /*clear: both;
+    text-align: center;
+    width: 70%;
+    margin: 30px auto;
+    border-top: .5px solid black;*/
+    
+}
+/*.footer {*/
+    /*word-spacing: 40px;*/
+}
+/*.nowrap {*/
+    /*white-space: nowrap;*/
+}
